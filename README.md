@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dimitar Kaukov
+- 🌱 I’m currently learning Java and Management of Information Systems (bachelor)
+- 🔭 I’m currently working on delevoping new skills
+- 🧗‍♂️ My hobby is fishing
